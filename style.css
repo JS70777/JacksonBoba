@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+    color: red;
+}
+p {
+    color: blue;
+    border-style: solid;
+    border-color: DogerBlue;
+}
